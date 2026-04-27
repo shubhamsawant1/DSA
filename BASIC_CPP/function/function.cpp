@@ -9,7 +9,7 @@ using namespace std;
 // parameaters
 // non parameterised 
 
-void printName(string name) {
+void printName(string name) {          // which is does returns anything
     cout<< "hey " << name << endl;
 }
 
@@ -30,6 +30,9 @@ int main() {
     cin >> m;
     printName(m);
 
+    string myname;
+    cin>> myname;
+    printName(myname);
     return 0;
 
   
