@@ -1,0 +1,6 @@
+what is time complexity
+|
+|
+|           \
+|
+| \ \ \ \ \ |
